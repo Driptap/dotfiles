@@ -1,0 +1,3 @@
+[submodule "sublime/sublime_snippets"]
+	path = sublime/sublime_snippets
+	url = git@github.com:Driptap/sublime_snippets.git
